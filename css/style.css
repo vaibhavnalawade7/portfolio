@@ -107,6 +107,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: justify;
     font-size: 18px;
+    text-color: white;
 }
 h2 > .info {
     margin: 20px;
