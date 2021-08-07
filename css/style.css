@@ -12,8 +12,8 @@ ul {
     max-width: 250px;
     list-style-type: none;
     padding: 0;
-    margin-left: 48%;
-    
+    margin-left: 47% auto;
+    text-align: -webkit-match-parent;
     overflow: hidden;
     /* background-color: rgb(181, 83, 176);  */
     top: 0;
